@@ -22,6 +22,9 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	margin-right: 20px;
 }
 
+h4.services-title{
+  font-weight: bold;
+}
 
 /*
 Do not change
@@ -452,11 +455,11 @@ p.blog-text{
 }
 .services-section .services-icon {
   color: white;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   margin-top: 10px;
 }
 .services-section .services-title {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .services-section .services-desc {
   margin-bottom: 30px;
@@ -482,8 +485,8 @@ p.blog-text{
 }
 .services-group{
   padding: 10px;
-  background:#0b0c0c;
-  color: white;
+  background:gainsboro;
+  color: black;
 }
 .service-icon{
   color: white;

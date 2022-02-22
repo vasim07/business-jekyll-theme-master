@@ -36,6 +36,10 @@ I removed certain features from the original theme packages as we do not really 
 
 ## VS
 
+Card
+Dorrik
+WebFlow
+
 https://www.adfwebmagazine.jp/wp-content/uploads/test_v4.1.pdf - fontawesome icon list
 
 1920 px * 700 px
