@@ -37,6 +37,10 @@ a.navbar-brand.sabrand{
   color: #74B9B9;
 }
 
+div#etltext {
+  text-align: left;
+}
+
 /*
 Do not change
 */
